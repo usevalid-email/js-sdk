@@ -9,26 +9,26 @@ Validate Your Emails with Confidence
 You can install the package via npm:
 
 ```bash
-npm install usevalid-email/js-sdk
+npm install @usevalid-email/js-sdk
 ```
 
 Or yarn:
 
 ```bash
-yarn add usevalid-email/js-sdk
+yarn add @usevalid-email/js-sdk
 ```
 
 Or Bun.js:
 
 ```bash
-bun add usevalid-email/js-sdk
+bun add @usevalid-email/js-sdk
 ```
 
 ## Usage
 
 ```javascript
 // using Sdk
-import Sdk from 'usevalid-email/js-sdk';
+import Sdk from '@usevalid-email/js-sdk';
 
 const sdk = new Sdk('your-api-key');
 const validator = sdk.validator();
@@ -44,7 +44,7 @@ or
 
 ```javascript
 // using useValidEmail
-import { useValidEmail } from 'usevalid-email/js-sdk';
+import { useValidEmail } from '@usevalid-email/js-sdk';
 
 const validator = useValidEmail('your-api-key');
 
@@ -67,7 +67,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Credits
 
-- [All Contributors](https://github.com/usevalid-email/php-sdk/graphs/contributors)
+- [All Contributors](https://github.com/usevalid-email/js-sdk/graphs/contributors)
 
 ## License
 
