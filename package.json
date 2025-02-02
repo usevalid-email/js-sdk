@@ -1,7 +1,7 @@
 {
-  "name": "@usevalid-email/php-sdk",
+  "name": "@usevalid-email/js-sdk",
   "version": "0.0.1",
-  "description": "TypeScript NPM Module Boilerplate",
+  "description": "Validate Your Emails with Confidence",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
