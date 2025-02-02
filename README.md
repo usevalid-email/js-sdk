@@ -1,5 +1,8 @@
 # usevalid.email
 
+[![Node.js build and publish package](https://github.com/usevalid-email/js-sdk/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/usevalid-email/js-sdk/actions/workflows/npm-publish.yml)
+[![Running Code Coverage](https://github.com/usevalid-email/js-sdk/actions/workflows/coverage.yml/badge.svg)](https://github.com/usevalid-email/js-sdk/actions/workflows/coverage.yml)
+
 Validate Your Emails with Confidence
 
 # Getting started
