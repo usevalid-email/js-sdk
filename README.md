@@ -34,7 +34,7 @@ bun add @usevalid-email/js-sdk
 import Sdk from '@usevalid-email/js-sdk';
 
 const sdk = new Sdk('your-api-key');
-const validator = sdk.validator();
+const validator = sdk.validator;
 
 const email = 'test@gmail.com';
 
