@@ -4,10 +4,7 @@
   "description": "Validate Your Emails with Confidence",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "private": false,
-  "publishConfig": {
-    "access": "public"
-  },
+  "type": "commonjs",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.(js|ts)\"",
@@ -25,10 +22,26 @@
     "url": "git+https://github.com/usevalid-email/js-sdk.git"
   },
   "keywords": [
-    "boilerplate",
-    "typescript"
+    "email",
+    "email-validation",
+    "mail-verification",
+    "mail",
+    "mailverifier",
+    "email-verifier",
+    "email-verification",
+    "email-verify",
+    "smtp",
+    "email-smtp",
+    "email-smtp-verification",
+    "email-smtp-verify",
+    "deep-email-verification",
+    "deep-email-verify"
   ],
   "author": "UseValid Email",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/usevalid-email/js-sdk/issues"
