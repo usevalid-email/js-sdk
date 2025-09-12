@@ -1,6 +1,6 @@
 {
   "name": "@usevalid-email/js-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Validate Your Emails with Confidence",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -51,18 +51,18 @@
     "@types/jest": "29.5.14",
     "@typescript-eslint/eslint-plugin": "7.18.0",
     "@typescript-eslint/parser": "7.18.0",
-    "dotenv": "^16.4.7",
+    "dotenv": "^16.6.1",
     "eslint": "8.57.1",
     "eslint-plugin-jest": "27.9.0",
     "jest": "29.7.0",
-    "prettier": "3.4.2",
-    "ts-jest": "29.2.5",
-    "typescript": "5.7.3"
+    "prettier": "3.6.2",
+    "ts-jest": "29.4.1",
+    "typescript": "5.9.2"
   },
   "files": [
     "lib/**/*"
   ],
   "dependencies": {
-    "axios": "^1.7.9"
+    "axios": "1.12.0"
   }
 }
